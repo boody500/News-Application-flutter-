@@ -1,4 +1,4 @@
-# hagora
+# news
 
 A new Flutter project.
 
